@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View.csproj", "{B636FAF1-4A6C-4851-9F68-096C336549E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "..\ClassLibrary1\Dominio.csproj", "{B30CDDD7-C75E-4508-AAEE-256B11282358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "..\ClassLibrary2\Negocio.csproj", "{69AEDBE0-BD48-4EDA-9095-38CA053D77FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B636FAF1-4A6C-4851-9F68-096C336549E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B636FAF1-4A6C-4851-9F68-096C336549E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B636FAF1-4A6C-4851-9F68-096C336549E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B636FAF1-4A6C-4851-9F68-096C336549E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30CDDD7-C75E-4508-AAEE-256B11282358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30CDDD7-C75E-4508-AAEE-256B11282358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30CDDD7-C75E-4508-AAEE-256B11282358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30CDDD7-C75E-4508-AAEE-256B11282358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AEDBE0-BD48-4EDA-9095-38CA053D77FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AEDBE0-BD48-4EDA-9095-38CA053D77FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AEDBE0-BD48-4EDA-9095-38CA053D77FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AEDBE0-BD48-4EDA-9095-38CA053D77FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EBBA346-E4D1-447B-AA45-ADF9D3F11996}
+	EndGlobalSection
+EndGlobal
