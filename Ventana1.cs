@@ -7,14 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Dominio;
+using Negocio;
 
-namespace WindowsFormsApp1
+namespace View
 {
-    public partial class Form1 : Form
+    public partial class Ventana1 : Form
     {
-        public Form1()
+        public Ventana1()
         {
             InitializeComponent();
         }
+
     }
 }
